@@ -10,7 +10,7 @@
 
 Laravel é um framework de aplicação web com sintaxe expressiva e elegante. O Laravel facilita o processo de desenvolvimento simplificando tarefas comuns usadas em muitos projetos da web, como:
 
-- [Roteamento simples e ráopido](https://laravel.com/docs/routing).
+- [Roteamento simples e rápido](https://laravel.com/docs/routing).
 - [Injeção de Depêndencia](https://laravel.com/docs/container).
 - Armazenamento de [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - [ORM](https://laravel.com/docs/eloquent).
