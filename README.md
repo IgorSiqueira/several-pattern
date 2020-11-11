@@ -20,5 +20,11 @@ Laravel é um framework de aplicação web com sintaxe expressiva e elegante. O 
 
 Posso dizer com certeza que Laravel é um framework poderoso e acessível
 
+## Sobre o Projetos
+    Esse projeto tem como objetivo a demonstração,implementação e estudo de diversos padrões de projeto  dentro do framework Laravel.
+
+    Para criar alguma solução solida, objetivo desse software será a gestão de contratos de recorrência juntamente com uma gestão de lançamentos financeiros.
+
+    A funcionalidade são planejadas conforme o andamento da aplicação e atualizadas constamente na área de ISSUES do repositorio 
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
