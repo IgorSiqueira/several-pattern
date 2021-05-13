@@ -1,4 +1,4 @@
-name: Laravel
+name: Several Pattern Workflow
 
 on:
   push:
